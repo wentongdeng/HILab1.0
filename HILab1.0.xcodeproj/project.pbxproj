@@ -15,6 +15,21 @@
 		F30C44511E4DF0B500462DD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F30C444F1E4DF0B500462DD5 /* LaunchScreen.storyboard */; };
 		F30C445C1E4DF0B500462DD5 /* HILab1_0Tests.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C445B1E4DF0B500462DD5 /* HILab1_0Tests.m */; };
 		F30C44671E4DF0B500462DD5 /* HILab1_0UITests.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C44661E4DF0B500462DD5 /* HILab1_0UITests.m */; };
+		F30C44881E4DF16A00462DD5 /* chart.min.js in Resources */ = {isa = PBXBuildFile; fileRef = F30C44751E4DF16A00462DD5 /* chart.min.js */; };
+		F30C44891E4DF16A00462DD5 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = F30C44761E4DF16A00462DD5 /* index.html */; };
+		F30C448A1E4DF16A00462DD5 /* TWRBarChart.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C44781E4DF16A00462DD5 /* TWRBarChart.m */; };
+		F30C448B1E4DF16A00462DD5 /* TWRChartBuilder.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C447B1E4DF16A00462DD5 /* TWRChartBuilder.m */; };
+		F30C448C1E4DF16A00462DD5 /* TWRChartView.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C447D1E4DF16A00462DD5 /* TWRChartView.m */; };
+		F30C448D1E4DF16A00462DD5 /* TWRCircularChart.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C447F1E4DF16A00462DD5 /* TWRCircularChart.m */; };
+		F30C448E1E4DF16A00462DD5 /* TWRDataSet.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C44811E4DF16A00462DD5 /* TWRDataSet.m */; };
+		F30C448F1E4DF16A00462DD5 /* TWRDataSet+Strings.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C44831E4DF16A00462DD5 /* TWRDataSet+Strings.m */; };
+		F30C44901E4DF16A00462DD5 /* TWRLineChart.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C44851E4DF16A00462DD5 /* TWRLineChart.m */; };
+		F30C44911E4DF16A00462DD5 /* UIColor+HexString.m in Sources */ = {isa = PBXBuildFile; fileRef = F30C44871E4DF16A00462DD5 /* UIColor+HexString.m */; };
+		F30C44931E4DF18B00462DD5 /* index.js in Resources */ = {isa = PBXBuildFile; fileRef = F30C44921E4DF18B00462DD5 /* index.js */; };
+		F33FD5661E6DBB3E0063D296 /* gener.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F33FD5651E6DBB3E0063D296 /* gener.jpg */; };
+		F33FD56A1E6DC2E30063D296 /* gener2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F33FD5671E6DC2E20063D296 /* gener2.jpg */; };
+		F33FD56B1E6DC2E30063D296 /* gener3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F33FD5681E6DC2E20063D296 /* gener3.jpg */; };
+		F33FD56C1E6DC2E30063D296 /* gener4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F33FD5691E6DC2E20063D296 /* gener4.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +66,30 @@
 		F30C44621E4DF0B500462DD5 /* HILab1.0UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = HILab1.0UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F30C44661E4DF0B500462DD5 /* HILab1_0UITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = HILab1_0UITests.m; sourceTree = "<group>"; };
 		F30C44681E4DF0B500462DD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F30C44751E4DF16A00462DD5 /* chart.min.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = chart.min.js; path = "../../TWRCharts-master的副本/TWRCharts/chart.min.js"; sourceTree = "<group>"; };
+		F30C44761E4DF16A00462DD5 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = "../../TWRCharts-master的副本/TWRCharts/index.html"; sourceTree = "<group>"; };
+		F30C44771E4DF16A00462DD5 /* TWRBarChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TWRBarChart.h; path = "../../TWRCharts-master的副本/TWRCharts/TWRBarChart.h"; sourceTree = "<group>"; };
+		F30C44781E4DF16A00462DD5 /* TWRBarChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TWRBarChart.m; path = "../../TWRCharts-master的副本/TWRCharts/TWRBarChart.m"; sourceTree = "<group>"; };
+		F30C44791E4DF16A00462DD5 /* TWRChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TWRChart.h; path = "../../TWRCharts-master的副本/TWRCharts/TWRChart.h"; sourceTree = "<group>"; };
+		F30C447A1E4DF16A00462DD5 /* TWRChartBuilder.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TWRChartBuilder.h; path = "../../TWRCharts-master的副本/TWRCharts/TWRChartBuilder.h"; sourceTree = "<group>"; };
+		F30C447B1E4DF16A00462DD5 /* TWRChartBuilder.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TWRChartBuilder.m; path = "../../TWRCharts-master的副本/TWRCharts/TWRChartBuilder.m"; sourceTree = "<group>"; };
+		F30C447C1E4DF16A00462DD5 /* TWRChartView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TWRChartView.h; path = "../../TWRCharts-master的副本/TWRCharts/TWRChartView.h"; sourceTree = "<group>"; };
+		F30C447D1E4DF16A00462DD5 /* TWRChartView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TWRChartView.m; path = "../../TWRCharts-master的副本/TWRCharts/TWRChartView.m"; sourceTree = "<group>"; };
+		F30C447E1E4DF16A00462DD5 /* TWRCircularChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TWRCircularChart.h; path = "../../TWRCharts-master的副本/TWRCharts/TWRCircularChart.h"; sourceTree = "<group>"; };
+		F30C447F1E4DF16A00462DD5 /* TWRCircularChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TWRCircularChart.m; path = "../../TWRCharts-master的副本/TWRCharts/TWRCircularChart.m"; sourceTree = "<group>"; };
+		F30C44801E4DF16A00462DD5 /* TWRDataSet.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TWRDataSet.h; path = "../../TWRCharts-master的副本/TWRCharts/TWRDataSet.h"; sourceTree = "<group>"; };
+		F30C44811E4DF16A00462DD5 /* TWRDataSet.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TWRDataSet.m; path = "../../TWRCharts-master的副本/TWRCharts/TWRDataSet.m"; sourceTree = "<group>"; };
+		F30C44821E4DF16A00462DD5 /* TWRDataSet+Strings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "TWRDataSet+Strings.h"; path = "../../TWRCharts-master的副本/TWRCharts/TWRDataSet+Strings.h"; sourceTree = "<group>"; };
+		F30C44831E4DF16A00462DD5 /* TWRDataSet+Strings.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "TWRDataSet+Strings.m"; path = "../../TWRCharts-master的副本/TWRCharts/TWRDataSet+Strings.m"; sourceTree = "<group>"; };
+		F30C44841E4DF16A00462DD5 /* TWRLineChart.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = TWRLineChart.h; path = "../../TWRCharts-master的副本/TWRCharts/TWRLineChart.h"; sourceTree = "<group>"; };
+		F30C44851E4DF16A00462DD5 /* TWRLineChart.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = TWRLineChart.m; path = "../../TWRCharts-master的副本/TWRCharts/TWRLineChart.m"; sourceTree = "<group>"; };
+		F30C44861E4DF16A00462DD5 /* UIColor+HexString.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIColor+HexString.h"; path = "../../TWRCharts-master的副本/TWRCharts/UIColor+HexString.h"; sourceTree = "<group>"; };
+		F30C44871E4DF16A00462DD5 /* UIColor+HexString.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIColor+HexString.m"; path = "../../TWRCharts-master的副本/TWRCharts/UIColor+HexString.m"; sourceTree = "<group>"; };
+		F30C44921E4DF18B00462DD5 /* index.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; name = index.js; path = "../../../TWRCharts-master的副本/TWRChartsDemo/ChartJS/index.js"; sourceTree = "<group>"; };
+		F33FD5651E6DBB3E0063D296 /* gener.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gener.jpg; sourceTree = "<group>"; };
+		F33FD5671E6DC2E20063D296 /* gener2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gener2.jpg; sourceTree = "<group>"; };
+		F33FD5681E6DC2E20063D296 /* gener3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gener3.jpg; sourceTree = "<group>"; };
+		F33FD5691E6DC2E20063D296 /* gener4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = gener4.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +120,7 @@
 		F30C44351E4DF0B500462DD5 = {
 			isa = PBXGroup;
 			children = (
+				F30C44741E4DF0DD00462DD5 /* Charts */,
 				F30C44401E4DF0B500462DD5 /* HILab1.0 */,
 				F30C445A1E4DF0B500462DD5 /* HILab1.0Tests */,
 				F30C44651E4DF0B500462DD5 /* HILab1.0UITests */,
@@ -101,6 +141,10 @@
 		F30C44401E4DF0B500462DD5 /* HILab1.0 */ = {
 			isa = PBXGroup;
 			children = (
+				F33FD5671E6DC2E20063D296 /* gener2.jpg */,
+				F33FD5681E6DC2E20063D296 /* gener3.jpg */,
+				F33FD5691E6DC2E20063D296 /* gener4.jpg */,
+				F33FD5651E6DBB3E0063D296 /* gener.jpg */,
 				F30C44441E4DF0B500462DD5 /* AppDelegate.h */,
 				F30C44451E4DF0B500462DD5 /* AppDelegate.m */,
 				F30C44471E4DF0B500462DD5 /* ViewController.h */,
@@ -117,6 +161,7 @@
 		F30C44411E4DF0B500462DD5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				F30C44921E4DF18B00462DD5 /* index.js */,
 				F30C44421E4DF0B500462DD5 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -138,6 +183,32 @@
 				F30C44681E4DF0B500462DD5 /* Info.plist */,
 			);
 			path = HILab1.0UITests;
+			sourceTree = "<group>";
+		};
+		F30C44741E4DF0DD00462DD5 /* Charts */ = {
+			isa = PBXGroup;
+			children = (
+				F30C44751E4DF16A00462DD5 /* chart.min.js */,
+				F30C44761E4DF16A00462DD5 /* index.html */,
+				F30C44771E4DF16A00462DD5 /* TWRBarChart.h */,
+				F30C44781E4DF16A00462DD5 /* TWRBarChart.m */,
+				F30C44791E4DF16A00462DD5 /* TWRChart.h */,
+				F30C447A1E4DF16A00462DD5 /* TWRChartBuilder.h */,
+				F30C447B1E4DF16A00462DD5 /* TWRChartBuilder.m */,
+				F30C447C1E4DF16A00462DD5 /* TWRChartView.h */,
+				F30C447D1E4DF16A00462DD5 /* TWRChartView.m */,
+				F30C447E1E4DF16A00462DD5 /* TWRCircularChart.h */,
+				F30C447F1E4DF16A00462DD5 /* TWRCircularChart.m */,
+				F30C44801E4DF16A00462DD5 /* TWRDataSet.h */,
+				F30C44811E4DF16A00462DD5 /* TWRDataSet.m */,
+				F30C44821E4DF16A00462DD5 /* TWRDataSet+Strings.h */,
+				F30C44831E4DF16A00462DD5 /* TWRDataSet+Strings.m */,
+				F30C44841E4DF16A00462DD5 /* TWRLineChart.h */,
+				F30C44851E4DF16A00462DD5 /* TWRLineChart.m */,
+				F30C44861E4DF16A00462DD5 /* UIColor+HexString.h */,
+				F30C44871E4DF16A00462DD5 /* UIColor+HexString.m */,
+			);
+			name = Charts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -246,9 +317,16 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F30C44891E4DF16A00462DD5 /* index.html in Resources */,
+				F33FD56B1E6DC2E30063D296 /* gener3.jpg in Resources */,
+				F33FD56C1E6DC2E30063D296 /* gener4.jpg in Resources */,
 				F30C44511E4DF0B500462DD5 /* LaunchScreen.storyboard in Resources */,
 				F30C444E1E4DF0B500462DD5 /* Assets.xcassets in Resources */,
+				F30C44931E4DF18B00462DD5 /* index.js in Resources */,
+				F33FD56A1E6DC2E30063D296 /* gener2.jpg in Resources */,
+				F33FD5661E6DBB3E0063D296 /* gener.jpg in Resources */,
 				F30C444C1E4DF0B500462DD5 /* Main.storyboard in Resources */,
+				F30C44881E4DF16A00462DD5 /* chart.min.js in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,8 +351,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F30C448A1E4DF16A00462DD5 /* TWRBarChart.m in Sources */,
+				F30C448C1E4DF16A00462DD5 /* TWRChartView.m in Sources */,
+				F30C448E1E4DF16A00462DD5 /* TWRDataSet.m in Sources */,
+				F30C448B1E4DF16A00462DD5 /* TWRChartBuilder.m in Sources */,
+				F30C448D1E4DF16A00462DD5 /* TWRCircularChart.m in Sources */,
+				F30C448F1E4DF16A00462DD5 /* TWRDataSet+Strings.m in Sources */,
 				F30C44491E4DF0B500462DD5 /* ViewController.m in Sources */,
 				F30C44461E4DF0B500462DD5 /* AppDelegate.m in Sources */,
+				F30C44911E4DF16A00462DD5 /* UIColor+HexString.m in Sources */,
+				F30C44901E4DF16A00462DD5 /* TWRLineChart.m in Sources */,
 				F30C44431E4DF0B500462DD5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -505,6 +591,7 @@
 				F30C446D1E4DF0B500462DD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F30C446E1E4DF0B500462DD5 /* Build configuration list for PBXNativeTarget "HILab1.0Tests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +600,7 @@
 				F30C44701E4DF0B500462DD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F30C44711E4DF0B500462DD5 /* Build configuration list for PBXNativeTarget "HILab1.0UITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +609,7 @@
 				F30C44731E4DF0B500462DD5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
