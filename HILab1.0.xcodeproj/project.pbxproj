@@ -278,6 +278,7 @@
 				TargetAttributes = {
 					F30C443D1E4DF0B500462DD5 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = 6733J8KFDB;
 						ProvisioningStyle = Automatic;
 					};
 					F30C44561E4DF0B500462DD5 = {
@@ -508,6 +509,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6733J8KFDB;
 				INFOPLIST_FILE = HILab1.0/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "JLU.HILab1-0";
@@ -519,6 +521,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 6733J8KFDB;
 				INFOPLIST_FILE = HILab1.0/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "JLU.HILab1-0";
